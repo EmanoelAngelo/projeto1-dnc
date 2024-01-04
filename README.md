@@ -20,4 +20,4 @@ Para avaliar as habilidades dos candidatos, ele decidiu propor um desafio:
 ![image](https://github.com/EmanoelAngelo/projeto1-dnc/assets/155268752/36a6d309-c539-47b8-8edb-b0d28f30b841)
 
 # Layout Desenvolvido (Fomulario):
-![image](https://github.com/EmanoelAngelo/projeto1-dnc/assets/155268752/56b9cf79-6488-4bcc-baeb-65034aea9a1f)
+![image](https://github.com/EmanoelAngelo/projeto1-dnc/assets/155268752/f80220fe-4358-4bbd-9fe2-80b2a2ac4e67)
