@@ -3,9 +3,9 @@ Olá este é o meu DESAFIO 1 de desenvolvimento do módulo do curso de tecnologi
 
 Espero que gostem! 😃
 # Contexto proposto:
-Um gerente de recrutamento de uma empresa de tecnologia e está procurando um
+Um gerente de recrutamento de uma empresa de tecnologia está procurando um
 novo desenvolvedor para se juntar à equipe, e te contatou para a proposta de trabalho.
-Desafio: Desenvolva uma Landing Page 2
+
 Para avaliar as habilidades dos candidatos, ele decidiu propor um desafio: eles devem
 criar uma landing page como portfólio para uma empresa de arquitetura.
 # Layout (Menu superior e infortivo ):
