@@ -9,6 +9,10 @@ novo desenvolvedor para se juntar à equipe, e te contatou para a proposta de tr
 Para avaliar as habilidades dos candidatos, ele decidiu propor um desafio: 
 
 -Eles devem criar uma landing page como portfólio para uma empresa de arquitetura.
+
+# Layout proposto: 
+
+![image](https://github.com/EmanoelAngelo/projeto1-dnc/assets/155268752/0b2e7ba0-b95f-4895-bc9e-c179045783c6)
 # Layout Desenvolvido (Menu superior e infortivo ):
 ![image](https://github.com/EmanoelAngelo/projeto1-dnc/assets/155268752/33e957db-cf21-4591-b0fc-31a1c3827527)
 
