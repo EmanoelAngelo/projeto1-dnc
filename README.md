@@ -3,7 +3,7 @@ Olá este é o meu DESAFIO 1 de desenvolvimento do módulo do curso de tecnologi
 
 link site: https://emanoel-desafio-1-dnc.netlify.app/
 
-link tabela: https://docs.google.com/spreadsheets/d/12dzx7m244vIniTKbuZVq0IPBQqiWvhWMXoR83FlyIHo/edit#gid=0
+link tabela: https://docs.google.com/spreadsheets/d/12dzx7m244vIniTKbuZVq0IPBQqiWvhWMXoR83FlyIHo/edit?usp=sharing
 
 Espero que gostem! 😃
 # Contexto proposto:
